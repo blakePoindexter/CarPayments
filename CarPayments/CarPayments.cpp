@@ -1,4 +1,4 @@
-// CarPayments.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// CarPayments.cpp : From C++ Programming textbook
 //Chapter 10 - TryThis11
 
 #include <iostream>
